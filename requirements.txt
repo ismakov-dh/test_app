@@ -1,0 +1,4 @@
+pytest
+flask
+validate_email
+pandas
