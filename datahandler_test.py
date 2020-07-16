@@ -2,8 +2,6 @@ from datahandler import save_data
 import pandas as pd
 import json
 
-url = 'http://localhost:5000/'
-
 
 def test_datahandler():
     test_requests = pd.read_csv('testdata.csv')
